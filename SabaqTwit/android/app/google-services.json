@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "88368237392",
+    "project_id": "saqta-488b0",
+    "storage_bucket": "saqta-488b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88368237392:android:43f34ccf8ee07aa4c47a55",
+        "android_client_info": {
+          "package_name": "com.example.sabaqtwit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88368237392-2005psf41bagqtssg6nmeqjq00tngv3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sabaqtwit",
+            "certificate_hash": "387bcfe32e89879b83dee227779d6f9d98cf19b5"
+          }
+        },
+        {
+          "client_id": "88368237392-vjlk8od2tcnm5a5f35npfo6b37bdqfa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgq3B_XpVTIM-Yg6jbn77jHC9jlOnEiOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88368237392-vjlk8od2tcnm5a5f35npfo6b37bdqfa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
